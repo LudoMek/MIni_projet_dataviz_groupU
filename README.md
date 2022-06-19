@@ -14,6 +14,11 @@ GROUPE U :
 * Thierry Tchoffo Fokong
 
 To answer this question, we have created a solution on Tableau in the form of a story with 3 dashboards. 
+![image](https://user-images.githubusercontent.com/48301240/174472873-783dde39-8120-41c8-9da0-567ba9afe541.png)
+
+
+
+
 These visualizations give the user the possibility to observe the general evolution of babies in France on a temporal or geographical scale. To facilitate the reading, we have created parameters:
  -time scale (decade, every 20 years, every 40 years) 
 
